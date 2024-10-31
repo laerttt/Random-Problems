@@ -13,7 +13,7 @@ Below you will find a problem list including Problem Name, Difficulty, Problem T
 ## Problems List
 | Problem Name          | Difficulty | Topics            | Lang |
 |-|-|-|-|
-| [Add Digits](Add-Digits) | 🟢 | Math, Number Manipulation | ☕️ |
+| [Add Digits](Add Digits) | 🟢 | Math, Number Manipulation | ☕️ |
 |[Sign Of The Product Of An Array](Sign-Of-The-Product-Of-An-Array)|🟢|Array, Math|🐍|
 | [Longest Substring Without Repeating Characters](Longest-Substring-Without-Repeating-Characters) | 🟠 | Hashing,String Manipulation| ☕️ |
 > **Note:** ( easy🟢, medium🟠, hard🔴 ) ( java☕, python🐍 )
