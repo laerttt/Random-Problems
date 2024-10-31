@@ -14,6 +14,6 @@ Below you will find a problem list including Problem Name, Difficulty, Problem T
 | Problem Name          | Difficulty | Topics            | Lang |
 |-|-|-|-|
 | [Add Digits](Add%20Digits) | 🟢 | Math, Number Manipulation | ☕️ |
-|[Sign Of The Product Of An Array](Sign-Of-The-Product-Of-An-Array)|🟢|Array, Math|🐍|
-| [Longest Substring Without Repeating Characters](Longest-Substring-Without-Repeating-Characters) | 🟠 | Hashing,String Manipulation| ☕️ |
+| [Sign Of The Product Of An Array](Sign%20Of%20The%20Product%20Of%20An%20Array) | 🟢 | Array, Math | 🐍 |
+| [Longest Substring Without Repeating Characters](Longest%20Substring%20Without%20Repeating%20Characters) | 🟠 | Hashing,String Manipulation| ☕️ |
 > **Note:** ( easy🟢, medium🟠, hard🔴 ) ( java☕, python🐍 )
