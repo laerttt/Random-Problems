@@ -11,12 +11,11 @@ This repository includes solutions to various coding problems. Each problem is s
 Below you will find a problem list including Problem Name, Difficulty, Problem Topic and Coding Language.
 
 ## Problems List
-###### ( easy🟢, medium🟠, hard🔴 )
-###### ( java☕ )
 | Problem Name          | Difficulty | Topics            | Lang |
 |-|-|-|-|
 | [Add Digits](https://github.com/laerttt/Random-Problems/tree/main/Add%20Digits) | 🟢 | Math, Number Manipulation | ☕️ |
 | [Length Substring Without Repeating Characters](https://github.com/laerttt/Random-Problems/tree/main/Longest%20Substring%20Without%20Repeating%20Characters) | 🟠 | Hashing,String Manipulation| ☕️ |
+###### ( easy🟢, medium🟠, hard🔴 ) ( java☕ )
 
 
 > **Note:** Each problem has its own file with an accompanying description, the solution.
