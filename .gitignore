@@ -1,0 +1,4 @@
+#ignore mac desktop vars	
+.DS_Store
+#ignore compiled java files
+*.class
