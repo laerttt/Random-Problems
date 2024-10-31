@@ -4,13 +4,13 @@ public class longestSubString {
     public static void main(String args[]){
         //Example 1
         String a = "abcabcbb";
-        System.out.println(lengthOfLongestSubstring(a));
+        System.out.println(solution(a));
         //Example 2
         String b = "bbbbb";
-        System.out.println(lengthOfLongestSubstring(b));
+        System.out.println(solution(b));
         //Example 3
         String c = "pwwkew";
-        System.out.println(lengthOfLongestSubstring(c));
+        System.out.println(solution(c));
 
         //Expected output
         //3
@@ -18,7 +18,7 @@ public class longestSubString {
         //3
     }
 
-    public static int lengthOfLongestSubstring(String s) {
+    public static int solution(String s) {
         if (s.length() == 1){
             return 1;
         }
