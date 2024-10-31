@@ -16,6 +16,9 @@ This repository includes solutions to various coding problems written in Java. E
 |-|-|-|-|
 | [Length Substring Without Repeating Characters](https://github.com/laerttt/Random-Problems/tree/main/Longest%20Substring%20Without%20Repeating%20Characters) | Medium | Hashing,String Manipulation| Java |
 | [Add Digits](https://github.com/laerttt/Random-Problems/tree/main/Add%20Digits) | Easy | Math, Number Manipulation | Java |
+
+
+
 <span style="color:blue">colored text</span>
 
 > **Note:** Each problem has its own file with an accompanying description, the solution.
