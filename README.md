@@ -18,5 +18,5 @@ Below you will find a problem list including Problem Name, Difficulty, Problem T
 | [Avg Salary Excluding Min And Max](Avg%20Salary%20Excluding%20Min%20And%20Max) | 🟢 | Array, Sorting | 🐍 |
 | [Longest Substring Without Repeating Characters](Longest%20Substring%20Without%20Repeating%20Characters) | 🟠 | Hashing,String Manipulation| ☕️ |
 
->( easy🟢, medium🟠, hard🔴 )
+>( easy🟢, medium🟠, hard🔴 )  
 >( java☕, python🐍 )
