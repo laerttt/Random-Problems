@@ -2,9 +2,9 @@
 
 ---
 
-**Example 1:**
-Input: `num = 38`
-Output: `2`
+**Example 1:**  
+Input: `num = 38`  
+Output: `2`  
 
 ```
 Explanation: The process is
@@ -13,12 +13,15 @@ Explanation: The process is
 Since 2 has only one digit, return it.
 ```
 
-**Example 2:**
-Input: `num = 0`
-Output: `0`
-
----
+**Example 2:**  
+Input: `num = 0`  
+Output: `0`  
 
 Constraints:
 `0 <= num <= 231 - 1`
- 
+
+ ---
+To compile java code: <br>
+`$ javac nameOfFile.java` will create `nameOfFile.class` <br>
+then <br>
+`$ java nameOfFile` <br>
