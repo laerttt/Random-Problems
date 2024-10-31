@@ -17,7 +17,7 @@ Since 2 has only one digit, return it.
 Input: `num = 0`  
 Output: `0`  
 
-Constraints:
+**Constraints:**
 `0 <= num <= 231 - 1`
 
  ---
