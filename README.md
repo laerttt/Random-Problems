@@ -1,5 +1,5 @@
 # Coding Challenges Repository
----
+
 ## Table of Contents
 - [Coding Challenges Repository](#coding-challenges-repository)
   - [Table of Contents](#table-of-contents)
