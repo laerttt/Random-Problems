@@ -26,7 +26,7 @@ Explanation: The answer is "wke", with the length of 3.
 s consists of English letters, digits, symbols and spaces.
 
 ---
-To compile java code:
-`$ javac nameOfFile.java` will create `nameOfFile.class`
-then
-`$ java nameOfFile`
+To compile java code: <br>
+`$ javac nameOfFile.java` will create `nameOfFile.class` <br>
+then <br>
+`$ java nameOfFile` <br>
