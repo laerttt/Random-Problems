@@ -15,7 +15,8 @@ Below you will find a problem list including Problem Name, Difficulty, Problem T
 |-|-|-|-|
 | [Add Digits](Add%20Digits) | 🟢 | Math, Number Manipulation | ☕️ |
 | [Sign Of The Product Of An Array](Sign%20Of%20The%20Product%20Of%20An%20Array) | 🟢 | Array, Math | 🐍 |
-| [Longest Substring Without Repeating Characters](Longest%20Substring%20Without%20Repeating%20Characters) | 🟠 | Hashing,String Manipulation| ☕️ |
 | [Avg Salary Excluding Min And Max](Avg%20Salary%20Excluding%20Min%20And%20Max) | 🟢 | Array, Sorting | 🐍 |
+| [Longest Substring Without Repeating Characters](Longest%20Substring%20Without%20Repeating%20Characters) | 🟠 | Hashing,String Manipulation| ☕️ |
+
 >( easy🟢, medium🟠, hard🔴 )
 >( java☕, python🐍 )
