@@ -6,8 +6,7 @@ This repository includes solutions to various coding problems. Each problem is s
   - [Table of Contents](#table-of-contents)
   - [About](#about)
   - [Problems List](#problems-list)
-        - [( easy🟢, medium🟠, hard🔴 )](#-easy-medium-hard-)
-        - [( java☕, python🐍 )](#-java-python-)
+        - [( easy🟢, medium🟠, hard🔴 )                                                                 ( java☕, python🐍 )](#-easy-medium-hard---java-python-)
 
 ## About
 Below you will find a problem list including Problem Name, Difficulty, Problem Topic and Coding Language.
@@ -22,5 +21,4 @@ Below you will find a problem list including Problem Name, Difficulty, Problem T
 | [Longest Substring Without Repeating Characters](LongestSubstringWithoutRepeatingCharacters) | 🟠 | Hashing,String Manipulation| ☕️ |
 | [Add Two Numbers](AddTwoNumbers) | 🟠 | Linkedlists, Math, Recursion | ☕ |
 
-##### ( easy🟢, medium🟠, hard🔴 )  
-##### ( java☕, python🐍 )
+##### ( easy🟢, medium🟠, hard🔴 ) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( java☕, python🐍 )
