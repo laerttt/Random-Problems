@@ -1,4 +1,5 @@
 ## 100 Prisoners Problem
+ Video: [The Riddle That Seems Impossible Even If You Know The Answer - Veritasium](https://www.youtube.com/watch?v=iSNsgj1OCLA)
 
 The director of a prison offers **100 death row prisoners**, numbered from 1 to 100, a last chance. In a room, there is a cupboard with **100 drawers**. The director randomly places one prisoner's number in each of the closed drawers. The prisoners enter the room, one by one, and each may open **up to 50 drawers** in any order. Once a drawer is opened, it is closed again.
 
@@ -21,7 +22,7 @@ Simulate this riddle **at least 100,000 times** and track the **success rate**. 
 
 ### Requirements:
 - **Split the simulation** into multiple methods, each handling a specific task such as:
-  - Generating random numbers for the drawers.
-  - Creating random drawer arrangements.
-  - Simulating the search process for each prisoner.
-  - Calculating and printing the success rate of the strategy.
+    - Generating random numbers for the drawers.
+    - Creating random drawer arrangements.
+    - Simulating the search process for each prisoner.
+    - Calculating and printing the success rate of the strategy.
