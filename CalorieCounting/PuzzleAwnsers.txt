@@ -1,0 +1,10 @@
+Part 1: 
+ElfNum	Calories
+61	68292
+
+Part 2: 
+Place	ElfNum	Calories
+1st	61	68292
+2nd	217	68056
+3rd	52	66855
+Total: 203203
