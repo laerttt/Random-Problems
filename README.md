@@ -17,6 +17,7 @@ Below you will find a problem list including Problem Name, Difficulty, Problem T
 | [Sign Of The Product Of An Array](SignOfTheProductOfAnArray)                                 | 🟢         | Array, Math                                   | 🐍   |
 | [Difference Between Two Arrays](DifferenceBetweenTwoArrays)                                  | 🟢         | Array, Hash Table                             | 🐍   |
 | [Avg Salary Excluding Min And Max](AvgSalaryExcludingMinAndMax)                              | 🟢         | Array, Sorting                                | 🐍   |
+|[Data Mining](DataMining) | 🟢 |Clustering, Preprocessing, Classification, Metrics|🐍|
 | [Calorie Counting](CalorieCounting)                                                          | 🟠         | Parsing, Aggregation, Optimization            | ☕    |
 | [Longest Substring Without Repeating Characters](LongestSubstringWithoutRepeatingCharacters) | 🟠         | Hashing,String Manipulation                   | ☕️   |
 | [Add Two Numbers](AddTwoNumbers)                                                             | 🟠         | Linkedlists, Math, Recursion                  | ☕    |
