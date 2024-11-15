@@ -22,5 +22,6 @@ Below you will find a problem list including Problem Name, Difficulty, Problem T
 | [Longest Substring Without Repeating Characters](LongestSubstringWithoutRepeatingCharacters) | 🟠         | Hashing,String Manipulation                   | ☕️   |
 | [Add Two Numbers](AddTwoNumbers)                                                             | 🟠         | Linkedlists, Math, Recursion                  | ☕    |
 | [100 Prisoners Riddle](Prisoners)                                                            | 🔴         | Arrays, Randomization, Simulation, Algorithms | ☕    |
+| [Rucksack Organization](RucksackOrganization) | 🔴 | Optimization, Sets, Parsing|☕|
 
 >**Note**: ( easy🟢, medium🟠, hard🔴 )( java☕, python🐍 )
